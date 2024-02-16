@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alxbishop
+- 👋 Hi, I’m Alex Bishop - @alxbishop
 - 👀 I’m interested in geography, maps and remote sensing
 - 🌱 I’m currently working at UP42 as a Pre-Sales Engineer
 - ⚡ Fun advice: "If you're having a bad day, get outside!"
